@@ -4,3 +4,5 @@
 	username = gigiloria5
 [init]
 	defaultBranch = master
+[credential]
+	helper = [osxkeychain|store]
